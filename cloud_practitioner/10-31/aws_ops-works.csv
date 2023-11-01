@@ -1,0 +1,5 @@
+"What is the primary purpose of AWS OpsWorks?","It's a configuration management service that automates operational tasks using tools like Chef and Puppet."
+"In AWS OpsWorks, what does a 'stack' represent?","A set of instances that are managed as a single unit."
+"How does OpsWorks handle routine tasks like software updates and patching?","It provides automated instance management which takes care of these tasks."
+"Which configuration management tools does AWS OpsWorks primarily use?","Chef and Puppet."
+"What benefits does AWS OpsWorks offer for application deployment?","It offers application versioning, rollback, and integrated monitoring & logging for easy deployment."

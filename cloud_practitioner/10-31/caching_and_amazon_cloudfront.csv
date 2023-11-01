@@ -1,0 +1,8 @@
+ "Question","Answer"
+"What is the purpose of caching in AWS?","Caching in AWS provides in-memory data storage to reduce the time it takes to access data from primary data sources."
+"What are the two caching engines supported by Amazon ElasticCache?","Redis and Memcached"
+"What is AWS DAX designed for?","AWS DAX provides fast read performance (microsecond latencies) for Amazon DynamoDB tables by acting as an in-memory cache."
+"What is Amazon CloudFront?","Amazon CloudFront is a Content Delivery Network (CDN) service that distributes content globally with low latency."
+"What are Edge Locations in CloudFront?","Edge Locations are data centers around the world used by CloudFront to cache data closer to the end users."
+"What are the two types of CloudFront distributions?","Web Distribution and RTMP Distribution"
+"How does CloudFront ensure content security?","CloudFront supports HTTPS, integrates with AWS Shield for DDoS protection, and AWS WAF for filtering requests."

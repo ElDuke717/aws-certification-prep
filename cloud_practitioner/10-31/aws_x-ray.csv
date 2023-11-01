@@ -1,0 +1,5 @@
+"What is AWS X-Ray primarily used for?","Distributed tracing of applications to understand performance bottlenecks and get insights into the behavior of the applications."
+"What feature of AWS X-Ray allows you to visualize latency bottlenecks and identify problematic services?","Service Map."
+"What does AWS X-Ray's 'Insights' feature provide?","It offers anomaly detection to inform you of potential issues impacting your users."
+"How can developers integrate their applications with AWS X-Ray?","Through the AWS X-Ray SDK, which provides hooks into various AWS services and can trace HTTP requests."
+"Why would one use the flexible sampling rules in AWS X-Ray?","To configure and determine how much data they want to record for their traces."

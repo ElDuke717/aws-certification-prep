@@ -1,0 +1,6 @@
+"What is AWS CodeCommit?","A fully managed source control service that hosts Git repositories in a secure and scalable environment."
+"What does AWS CodeBuild do?","It's a managed build service that compiles source code, runs unit tests, and produces deployment artifacts."
+"How does AWS CodeDeploy help developers?","It automates the deployment process, making it easier to release new features and reduce downtime with updates."
+"What is the primary purpose of AWS CodePipeline?","A CI/CD service that automates the phases of your release process, integrating with third-party tools and services."
+"How can AWS CodeStar be described?","A service to quickly develop, build, and deploy applications on AWS with a unified user interface for managing software development activities."
+"What is AWS CodeArtifact used for?","A managed artifact repository service for securely storing, publishing, and sharing software packages."

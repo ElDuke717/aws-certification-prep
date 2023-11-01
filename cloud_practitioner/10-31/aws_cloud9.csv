@@ -1,0 +1,7 @@
+"What is AWS Cloud9?","A cloud-based integrated development environment (IDE) that allows you to write, run, and debug code using only a browser."
+"How does AWS Cloud9 facilitate collaborative coding?","It allows multiple developers to work on the same codebase in real-time, similar to how Google Docs operates."
+"In the context of AWS Cloud9, what does 'serverless development' mean?","It refers to its direct integration with AWS Lambda, allowing for easy development of serverless applications."
+"Why is there no need for software installations with AWS Cloud9?","Because it's a browser-based IDE, which means you can access and work on your projects from any machine with an internet connection and a browser."
+"How does AWS Cloud9 integrate with other AWS services?","It's directly tied to your AWS account, simplifying the process of working with various AWS services and resources."
+"What do you pay for when using AWS Cloud9?","You pay for the underlying compute and storage resources that you use."
+"What is AWS Cloud9's pricing model?","Pay-as-you-go."

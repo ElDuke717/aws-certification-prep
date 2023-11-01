@@ -1,0 +1,7 @@
+ "Question","Answer"
+"What is Amazon VPN used for?","It allows establishing a secure and private connection from on-premises or remote workstations to Amazon VPC."
+"What are the types of Amazon VPN?","Site-to-Site VPN and Client VPN."
+"How does AWS Direct Connect differ from Amazon VPN?","Direct Connect provides dedicated network connections from on-premises to AWS, bypassing the public internet, while VPN uses the public internet for connectivity."
+"What are the benefits of AWS Direct Connect?","Reduced network costs, increased bandwidth, more consistent network experience, and enhanced privacy."
+"Which AWS service provides dedicated network connections from on-premises to AWS?","AWS Direct Connect."
+"Which AWS service allows individual users to connect to Amazon VPC from anywhere?","Amazon Client VPN."

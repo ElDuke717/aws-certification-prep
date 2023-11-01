@@ -1,0 +1,5 @@
+"What is AWS Global Accelerator?","A service that improves the availability and performance of applications by using the AWS global network infrastructure to direct user traffic to the optimal AWS endpoint."
+"How does AWS Global Accelerator enhance user application performance?","By using the AWS global network backbone and edge locations to accelerate the delivery of traffic."
+"What type of IP addresses does AWS Global Accelerator provide?","Static Anycast IP addresses that route user requests to the nearest global location."
+"How does Global Accelerator ensure users are directed only to healthy application endpoints?","It continually monitors the health of your application endpoints and routes traffic only to healthy ones."
+"What feature of AWS Global Accelerator allows you to control the proportion of traffic that goes to different AWS regions?","Endpoint Weights."

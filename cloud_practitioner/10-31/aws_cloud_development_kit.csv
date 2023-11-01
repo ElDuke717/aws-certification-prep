@@ -1,0 +1,6 @@
+"What is the AWS Cloud Development Kit (CDK)?","An open-source framework to define cloud infrastructure in code and provision it through AWS CloudFormation using familiar programming languages."
+"What are the main programming languages supported by AWS CDK?","TypeScript, Python, Java, and C#."
+"What is the core concept of AWS CDK that represents cloud components?","Constructs."
+"How is infrastructure defined in AWS CDK compared to AWS CloudFormation?","In CDK, infrastructure is defined using imperative code (e.g., Python, TypeScript) while in CloudFormation, it is defined using declarative JSON or YAML templates."
+"What is the role of the CDK Toolkit (CDK CLI)?","It's a command-line utility for working with CDK apps, allowing operations like synthesizing CloudFormation templates, diffing stacks, and deploying stacks."
+"What does the AWS CDK provide to simplify the definition of AWS resources?","Higher-level object-oriented abstractions."

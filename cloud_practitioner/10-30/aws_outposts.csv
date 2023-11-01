@@ -1,0 +1,8 @@
+"Question","Answer"
+"What is AWS Outposts?","A fully managed service that extends AWS infrastructure, services, APIs, and tools to customer on-premises facilities for a consistent hybrid experience."
+"Why might someone use AWS Outposts?","For latency-sensitive applications, local data processing, regulatory compliance, and to have a consistent AWS environment on-premises."
+"Is AWS Outposts a self-managed solution?","No, AWS manages the delivery, installation, maintenance, and removal of Outposts hardware."
+"What are some key services supported by AWS Outposts?","Amazon EC2, Amazon EBS, Amazon VPC, Amazon RDS, Amazon ECS, among others."
+"How does AWS Outposts help with latency-sensitive applications?","By allowing the applications to run on-premises, close to end-users or local systems, it minimizes communication delays."
+"What's a key advantage of AWS Outposts in hybrid architectures?","It offers the same AWS hardware and software stack as in the cloud, ensuring seamless integration between on-premises and cloud environments."
+

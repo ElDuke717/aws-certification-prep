@@ -1,0 +1,6 @@
+"What is the primary purpose of AWS AppConfig?","To manage and rapidly deploy application configurations across applications on Amazon Web Services."
+"What safety feature does AWS AppConfig provide to reduce configuration errors?","AppConfig provides validators to ensure the accuracy of configuration data, reducing potential errors that can affect users."
+"How does AWS AppConfig help in rolling out new features?","It supports targeted rollouts, allowing configuration changes to be deployed to a small set of users first and incrementally increasing to a larger audience, thus reducing rollout risks."
+"Is a code deployment necessary for every configuration change in AWS AppConfig?","No, AppConfig allows for quick updates to application configurations without the need for a code deployment."
+"How can you monitor the impact and status of configuration deployments in AWS AppConfig?","AppConfig is integrated with Amazon CloudWatch, which enables monitoring and understanding the impact of configuration deployments."
+"What is the primary purpose of AWS CodeDeploy?","To automate code deployments to any instance, including Amazon EC2 instances and instances running on-premises."

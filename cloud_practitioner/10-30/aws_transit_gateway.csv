@@ -1,0 +1,6 @@
+"What is the primary purpose of AWS Transit Gateway?","It simplifies network architecture by centralizing connectivity between VPCs and on-premises networks."
+"How does the AWS Transit Gateway model its connections?","It uses a hub-and-spoke model where the Transit Gateway is the hub, and VPCs and on-premises networks are spokes."
+"What is a major advantage of AWS Transit Gateway over Transit VPC?","Transit Gateway is a managed service that is easier to set up, more scalable, and straightforward compared to Transit VPC."
+"How can you monitor your AWS Transit Gateway and its connections?","Through AWS Network Manager and its Geographic Dashboard."
+"Can AWS Transit Gateway connect with VPN and Direct Connect?","Yes, it supports both VPN connections and Direct Connect gateways."
+"Is it possible to control traffic in AWS Transit Gateway?","Yes, you can use security groups and network access control lists to manage and isolate traffic."

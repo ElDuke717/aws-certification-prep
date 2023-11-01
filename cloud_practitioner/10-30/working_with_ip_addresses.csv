@@ -1,0 +1,5 @@
+"What is a Public IP address?","An IP address that is routable on the internet. AWS resources receive this when launched, but it can change upon stopping and restarting the instance."
+"What is a Private IP address?","An IP address that isn't routable on the public internet and is used for communication between resources in the same network."
+"What is an Elastic IP address?","A static, public IPv4 address for dynamic cloud computing. It remains associated with the user's account until released and can be associated with any instance or network interface."
+"What is a NAT Gateway?","A managed service by AWS allowing instances in a private subnet to initiate outbound IPv4 traffic to the internet but prevents unsolicited inbound traffic. It scales up to 45 Gbps of bandwidth."
+"What is a NAT Instance?","An EC2 instance configured to forward traffic, allowing instances in a private subnet to connect to the internet but blocks incoming external traffic. Requires administrative effort."

@@ -1,0 +1,6 @@
+"What is Amazon Elastic Beanstalk?","A fully managed service in AWS that simplifies deploying, managing, and scaling applications."
+"How does Elastic Beanstalk scale applications?","Automatically using AWS Auto Scaling based on the application's specific needs."
+"Which platforms are supported by Elastic Beanstalk?","Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker."
+"How does Elastic Beanstalk handle resource provisioning?","It automatically provisions resources like EC2 instances, RDS databases, Elastic Load Balancers, and more."
+"What monitoring solution is integrated with Elastic Beanstalk?","Amazon CloudWatch."
+"How can you deploy updates or perform rollbacks in Elastic Beanstalk?","Easily deploy application updates or roll back to a previous version using the Elastic Beanstalk service."

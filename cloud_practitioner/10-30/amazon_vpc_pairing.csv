@@ -1,0 +1,7 @@
+"What is Amazon VPC Peering?","Amazon VPC Peering allows you to connect two VPCs so that instances in either VPC can communicate with each other using private IP addresses."
+"How does VPC peering handle network traffic?","VPC peering provides a direct network route using private IP addresses."
+"Can VPC A communicate with VPC C through VPC B using VPC peering?","No, transitive peering is not supported. Each VPC has a one-to-one peering relationship."
+"Can you peer VPCs with overlapping CIDR blocks?","No, VPCs with overlapping CIDR blocks can't be peered."
+"Is it possible to establish a VPC peering connection between VPCs in different regions?","Yes, this is known as inter-region VPC peering."
+"Can VPCs from different AWS accounts be peered?","Yes, VPC peering can be established between VPCs from the same or different AWS accounts."
+"How are data transfer costs handled in VPC peering?","Data transferred across VPC peering connections is charged at the standard data transfer rate."

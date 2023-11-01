@@ -1,0 +1,11 @@
+
+"What is Amazon EventBridge formerly known as?","CloudWatch Events."
+"How does Amazon EventBridge assist in building applications?","It facilitates building event-driven applications using data from AWS services, SaaS applications, and custom apps."
+"What is the main purpose of the EventBridge Schema Registry?","The Schema Registry stores event structure information and can automatically generate code bindings for events."
+"Can third-party SaaS applications send events to EventBridge?","Yes, several integrated SaaS application sources can send events directly to the EventBridge event bus."
+"How can events be directed to specific AWS services in EventBridge?","By creating rules that route events to one or multiple targets like AWS Lambda, Amazon SNS, or Amazon Kinesis."
+"How does EventBridge ensure the security of events?","It integrates with AWS Identity and Access Management (IAM) to control permissions and secure access to the event bus."
+"Is manual scaling required for Amazon EventBridge?","No, being serverless, EventBridge scales automatically."
+"How can you filter or transform events in EventBridge?","You can set up rules in EventBridge that help filter and transform the events before routing them to the target."
+"Is EventBridge designed for high availability?","Yes, Amazon EventBridge is designed for high availability."
+"How does EventBridge differ from CloudWatch Events?","EventBridge is an evolution of CloudWatch Events, offering more features like the Schema Registry and integrations with third-party SaaS applications."
