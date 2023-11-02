@@ -1,0 +1,4 @@
+ "What is AWS Control Tower?", "A service to set up and govern a secure, compliant multi-account AWS environment based on best practices."
+"What are Guardrails in AWS Control Tower?", "Pre-configured rules for security, compliance, and operations applied across accounts and workloads."
+"How does AWS Control Tower ensure a standardized setup?", "By automatically setting up a landing zone, a well-architected multi-account AWS environment."
+"What is the Account Factory in AWS Control Tower?", "A feature to provision new AWS accounts with organization's baseline settings."

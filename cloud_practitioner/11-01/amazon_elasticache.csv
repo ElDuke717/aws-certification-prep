@@ -1,0 +1,7 @@
+ "Front","Back"
+"What is Amazon ElastiCache?","Amazon ElastiCache is a web service that allows you to deploy, operate, and scale an in-memory cache in the cloud, improving application performance by storing critical data in memory rather than relying on disk-based databases."
+"How does ElastiCache improve application performance?","ElastiCache improves application response times by storing critical pieces of data in memory, reducing the need to fetch data from slower disk-based databases."
+"Which caching engines does ElastiCache support?","ElastiCache offers support for two popular open-source in-memory caching engines: Redis and Memcached."
+"How does Amazon ElastiCache ensure scalability and availability?","ElastiCache allows easy scaling of memory and compute resources, and it offers Multi-AZ deployments for failover support."
+"What are the security features offered by Amazon ElastiCache?","ElastiCache supports encryption both in-transit and at-rest and integrates with AWS IAM for access control."
+"Is Amazon ElastiCache a fully managed service?","Yes, Amazon ElastiCache is a fully managed service, handling tasks like hardware provisioning, setup and configuration, patching, and backups."

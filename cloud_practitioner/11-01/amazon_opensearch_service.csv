@@ -1,0 +1,16 @@
+"What is Amazon OpenSearch Service primarily used for?","It's a managed search and analytics solution for deploying, operating, and scaling OpenSearch and Elasticsearch clusters in the AWS Cloud."
+"How does OpenSearch Service handle backups and patches?","It automates backups, software patching, node replacement, and failure recovery."
+"How does OpenSearch Service ensure security?","It integrates with AWS Identity and Access Management (IAM) for access control."
+"Which tools are integrated with OpenSearch for ingestion and visualization?","Logstash and Kibana."
+"What is the purpose of OpenSearch Dashboards in Amazon OpenSearch Service?","To create visualizations and dashboards on your data."
+"What are the best practices for OpenSearch/Elasticsearch?", "• Deploy OpenSearch data instances across three Availability Zones (AZs) for the best availability
+• Provision instances in multiples of three for equal
+distribution across AZs
+• If three AZs are not available use two AZs with equal
+numbers of instances
+• Use three dedicated master nodes
+• Configure at least one replica for each index
+• Apply restrictive resource-based access policies to
+the domain (or use fine-grained access control)
+• Create the domain within an Amazon VPC
+• For sensitive data enable node-to-node encryption and encryption at rest"

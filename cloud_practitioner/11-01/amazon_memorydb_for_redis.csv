@@ -1,0 +1,7 @@
+"What is Amazon MemoryDB for Redis?","A fully managed, Redis-compatible, in-memory database service built on an architecture designed for durability and fault-tolerance."
+"How does MemoryDB ensure data durability?","It provides data durability by automatically replicating data across multiple Availability Zones (AZs)."
+"What are the security features of Amazon MemoryDB for Redis?","Encryption at rest and in transit, VPC support, and integration with AWS Identity and Access Management."
+"Is Amazon MemoryDB for Redis fully compatible with Redis?","Yes, it's fully compatible with Redis, allowing existing Redis clients to connect seamlessly."
+"What management tasks does Amazon MemoryDB for Redis automate?","Tasks like provisioning, patching, backup, recovery, and failover."
+"How does Amazon MemoryDB support data restoration?","It allows for point-in-time backups and supports data restoration."
+

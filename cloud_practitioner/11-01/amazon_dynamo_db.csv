@@ -1,0 +1,7 @@
+ "What type of database is Amazon DynamoDB?","DynamoDB is a fully managed NoSQL database service."
+"Which AWS service provides in-memory caching for DynamoDB?","DynamoDB Accelerator (DAX)"
+"How does DynamoDB ensure data availability and locality across regions?","Through Global Tables which support replication across regions."
+"What AWS service can be integrated with DynamoDB to trigger serverless functions based on database changes?","AWS Lambda, using DynamoDB Streams."
+"Does DynamoDB offer encryption at rest?","Yes, DynamoDB offers encryption at rest."
+"What AWS service can be used for secure and granular access control in DynamoDB?","AWS Identity and Access Management (IAM)"
+"How does DynamoDB handle scaling?","It automatically scales tables up and down based on demand."

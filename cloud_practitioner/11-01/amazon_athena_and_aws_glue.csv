@@ -1,0 +1,7 @@
+"What is Amazon Athena?","An interactive query service to analyze data in Amazon S3 using standard SQL."
+"How does Amazon Athena charge users?","Based on the amount of data scanned per query."
+"Is there a need for ETL jobs with Athena?","No, Athena can directly query data without the need for ETL jobs."
+"What is AWS Glue?","A fully managed ETL service to prepare and load data for analytics."
+"What is the AWS Glue Data Catalog?","A centralized metadata repository across various AWS services."
+"How does AWS Glue discover new data?","Using Data Crawlers which automatically extract metadata."
+"Do you need to setup infrastructure for AWS Glue?","No, it's a fully managed service with no infrastructure to set up."

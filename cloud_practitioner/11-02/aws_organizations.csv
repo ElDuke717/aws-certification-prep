@@ -1,0 +1,4 @@
+ "What is AWS Organizations?", "A service by AWS to centrally manage and enforce policies across multiple AWS accounts."
+"What is the primary benefit of AWS Organizations?", "Centrally manage multiple AWS accounts, apply policies, and have consolidated billing."
+"What are Service Control Policies (SCPs) in AWS Organizations?", "They define which AWS services and actions can be used within the accounts in an organization."
+"What are Organizational Units (OUs) in AWS Organizations?", "Groups of AWS accounts that can be used to apply policies at a more granular level than at the whole organization level."

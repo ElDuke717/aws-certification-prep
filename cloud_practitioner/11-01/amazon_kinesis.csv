@@ -1,0 +1,6 @@
+"What is the purpose of Amazon Kinesis?","To collect, process, and analyze real-time, streaming data."
+"What is Kinesis Data Streams used for?","Capturing, storing, and transporting streaming data."
+"How does Kinesis Data Firehose process the data?","It loads streaming data to other AWS services in near real-time."
+"What languages can be used with Kinesis Data Analytics?","SQL and Java."
+"What is the main purpose of Kinesis Video Streams?","To capture, process, and store video streams."
+"How can Kinesis benefit real-time analytics use cases?","It allows you to process and analyze data as it arrives, enabling instant response."

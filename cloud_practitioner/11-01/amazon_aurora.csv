@@ -1,0 +1,7 @@
+"What is Amazon Aurora?","Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud, designed to combine the performance and availability of high-end commercial databases with the cost-effectiveness of open-source databases."
+"How does Amazon Aurora's performance compare to MySQL and PostgreSQL?","Aurora provides up to five times the throughput of MySQL and three times the throughput of PostgreSQL."
+"How does Aurora ensure high availability?","Aurora continuously backs up data to Amazon S3 and has an instance failover time typically less than 30 seconds."
+"What are the key security features of Aurora?","Aurora offers network isolation using Amazon VPC, encryption at rest via AWS KMS, and encryption of data in transit using SSL."
+"How does Amazon Aurora handle scalability?","Aurora automatically divides the database volume into 10GB segments, replicated six ways across three Availability Zones."
+"Is Aurora managed by AWS?","Yes, Amazon RDS fully manages Aurora, taking care of tasks like provisioning, patching, and backups."
+"What is Aurora Serverless?","Aurora Serverless allows for automatic adjustment of database capacity based on actual application needs, without the need for provisioned instances."

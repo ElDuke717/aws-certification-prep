@@ -1,0 +1,8 @@
+"What is Amazon Redshift?","Amazon Redshift is a fully managed, petabyte-scale data warehouse service optimized for online analytic processing (OLAP) provided by AWS."
+"How does Redshift store its data for improved query performance?","Redshift organizes data in a columnar fashion which means it stores column values together."
+"What kind of scaling does Redshift support?","Redshift supports starting with a single node and can scale up to 128 nodes to handle petabytes of data."
+"What automatic management features does Redshift provide?","Redshift manages backups, patching, and restoring of your data warehouse automatically."
+"How does Redshift handle storage space and query performance?","Redshift uses advanced compression algorithms to reduce the storage space which results in more efficient query performance."
+"What feature does Redshift provide to handle multiple queries in parallel?","Redshift offers Concurrency Scaling which provides additional resources to handle multiple queries in parallel without impacting performance."
+"How does Amazon Redshift ensure data security?","Redshift offers encryption at rest and in transit, and integrates with AWS Identity and Access Management (IAM) for access control."
+"Which standard does Amazon Redshift support for queries?","Amazon Redshift supports standard SQL."

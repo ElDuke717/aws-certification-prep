@@ -1,0 +1,7 @@
+"What is Amazon EMR?","Amazon EMR is a cloud-native big data platform, designed to process vast amounts of data by distributing computations across resizable clusters of Amazon EC2 instances, simplifying the use of big data frameworks like Apache Hadoop and Apache Spark."
+"How does Amazon EMR ensure scalability?","EMR provides resizable clusters to help process vast amounts of data rapidly."
+"How does the costing for Amazon EMR work?","With EMR, you pay for what you use and it offers the ability to launch spot or reserved instances."
+"Name some big data tools and frameworks supported by Amazon EMR.","EMR supports multiple tools and frameworks such as Hive, Pig, HBase, and more."
+"How does Amazon EMR handle security?","EMR integrates with AWS IAM for access control and supports data encryption in S3, in-transit, and at-rest."
+"How does EMR integrate with data storage on AWS?","EMR integrates seamlessly with Amazon S3, DynamoDB, and other AWS storage solutions."
+"What does Amazon EMR use to optimize its performance?","EMR uses machine learning to monitor runtime metrics which aids in performance improvement." 

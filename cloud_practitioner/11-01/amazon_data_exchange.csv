@@ -1,0 +1,5 @@
+"What is Amazon MSK designed for?","Amazon MSK is designed to make it easy to build and run applications that use Apache Kafka to process streaming data."
+"How does Amazon MSK ease the use of Kafka?","It takes care of the underlying Kafka infrastructure, including cluster setup, patching, and backups."
+"Is there a need to modify existing Kafka applications to run on Amazon MSK?","No, MSK runs open-source Apache Kafka, so existing Kafka applications and tooling can be used without any changes."
+"How can you scale with Amazon MSK?","You can easily scale out using Kafka's sharded, distributed architecture."
+"What are some of the security features offered by Amazon MSK?","MSK offers multiple levels of security, including VPC, encryption, and authentication."
