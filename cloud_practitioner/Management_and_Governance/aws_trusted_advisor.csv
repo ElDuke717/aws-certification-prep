@@ -1,0 +1,4 @@
+"What is the primary purpose of AWS Trusted Advisor?","To provide real-time guidance based on AWS best practices."
+"Name two key areas that Trusted Advisor provides insights on.","Cost Optimization and Security"
+"How can you get notifications from Trusted Advisor?","By integrating it with AWS SNS (Simple Notification Service)."
+"Which AWS customers can view all Trusted Advisor checks?","Customers with Business or Enterprise support plans."

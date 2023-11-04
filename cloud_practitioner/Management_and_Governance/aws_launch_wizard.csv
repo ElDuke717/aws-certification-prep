@@ -1,0 +1,4 @@
+"What is the main purpose of AWS Launch Wizard?","To simplify the deployment of applications on AWS by providing a guided experience and offering best practice-based recommendations."
+"How does AWS Launch Wizard provide cost transparency?","It offers cost estimates for the recommended AWS resources before deploying the application."
+"Which AWS service is used by Launch Wizard to deploy the application after configuration?","AWS CloudFormation."
+"Can users review and edit the configurations before deploying via AWS Launch Wizard?","Yes, users can review and edit the AWS CloudFormation templates generated for their deployments."

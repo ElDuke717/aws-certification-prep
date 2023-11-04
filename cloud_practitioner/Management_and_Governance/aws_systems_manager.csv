@@ -1,0 +1,4 @@
+"What is AWS Systems Manager?", "A service that provides a unified interface for operational data and automates operational tasks across AWS resources."
+"What is the purpose of the Parameter Store in AWS Systems Manager?", "It acts as a secure storage for configuration data and secrets, like passwords and API keys."
+"How does AWS Systems Manager help in managing server configurations?", "Through State Manager, which ensures consistent configuration across resources."
+"What's the benefit of Session Manager in AWS Systems Manager?", "It allows managing EC2 instances through an interactive browser-based shell or AWS CLI."

@@ -1,0 +1,4 @@
+"What is the main purpose of AWS Health?","To provide ongoing visibility into the state of your AWS resources, services, and accounts."
+"How does AWS Health provide insights?","Through alerts about AWS service events, scheduled maintenance, and account notifications tailored to the user's resources and services."
+"What is the difference between the AWS Personal Health Dashboard and the AWS Service Health Dashboard?","The Personal Health Dashboard focuses on an individual account's resources, while the Service Health Dashboard shows the status of AWS services publicly across all regions."
+"Who can access the AWS Health API and its advanced features?","Customers with a Business or Enterprise Support plan."

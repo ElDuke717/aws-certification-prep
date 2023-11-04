@@ -1,0 +1,4 @@
+"What is the primary purpose of AWS Compute Optimizer?","To analyze the configuration and utilization of AWS resources and provide recommendations for optimization in terms of performance and cost."
+"How does AWS Compute Optimizer determine its recommendations?","It uses machine learning to analyze historical usage metrics from Amazon CloudWatch over the last 14 days."
+"What types of resources can AWS Compute Optimizer provide recommendations for?","EC2 instance types, Amazon EBS volumes, and Lambda functions."
+"Why might AWS Compute Optimizer provide multiple recommendations for a single workload?","To offer choices ranked by performance or cost benefits, allowing users to select the best fit for their needs."
