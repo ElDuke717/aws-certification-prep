@@ -1,0 +1,5 @@
+"What is AWS Directory Service?","A service that makes it easy to set up and operate a scalable AWS managed Microsoft Active Directory in the AWS Cloud."
+"What is AWS Managed Microsoft AD in AWS Directory Service?","A managed service that provides Active Directory features to your cloud-based applications and AWS resources using standard AD administration tools."
+"What is the AD Connector in AWS Directory Service?","A proxy service that allows AWS services to use your existing on-premises Active Directory without syncing or storing data in the cloud."
+"How does Simple AD differ from AWS Managed Microsoft AD?","Simple AD is a more cost-effective solution with basic AD features, best suited for smaller businesses that have less demanding directory needs."
+"What are common use cases for AWS Directory Service?","Hosting Active Directory-dependent applications, managing EC2 instances with Group Policy, single sign-on to AWS services, and managing RDS for SQL Server instances."
