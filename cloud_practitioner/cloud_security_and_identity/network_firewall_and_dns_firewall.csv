@@ -1,1 +1,10 @@
- 
+"What is AWS Network Firewall?","AWS Network Firewall is a managed service that provides network protections at the VPC level, with stateful inspection of traffic."
+"How does Route 53 Resolver DNS Firewall help secure your AWS environment?","Route 53 Resolver DNS Firewall helps secure your AWS environment by filtering and monitoring DNS queries within your VPCs, blocking or allowing queries based on domain names."
+"Can AWS Network Firewall be centrally managed?","Yes, AWS Network Firewall can be centrally managed using AWS Firewall Manager."
+"What types of DNS threats can Route 53 Resolver DNS Firewall respond to?","Route 53 Resolver DNS Firewall can respond to common DNS threats such as queries to known malicious domains."
+"Does AWS Network Firewall support stateful inspection?","Yes, AWS Network Firewall supports stateful inspection, which means it can analyze the full context of a network connection, not just individual packets."
+"In what ways can Route 53 Resolver DNS Firewall's logs be used?","Route 53 Resolver DNS Firewall's logs can be used for security analysis, compliance auditing, and monitoring DNS activity."
+"What kind of rule groups does AWS Network Firewall support?","AWS Network Firewall supports stateful and stateless rule groups, allowing for complex rule configurations."
+"Is Route 53 Resolver DNS Firewall a managed service?","Yes, Route 53 Resolver DNS Firewall is a managed service, simplifying the setup and maintenance of DNS-level security."
+"How can AWS Network Firewall's domain lists be used?","AWS Network Firewall's domain lists can be used for application-layer filtering, allowing or denying traffic based on domain names and patterns."
+"What is the benefit of integrating AWS Network Firewall with AWS Firewall Manager?","Integrating AWS Network Firewall with AWS Firewall Manager benefits centralized management and consistent policy enforcement across multiple VPCs."

@@ -1,0 +1,8 @@
+"What does the AWS Shared Responsibility Model entail?","The AWS Shared Responsibility Model outlines that AWS is responsible for the security 'of' the cloud, while customers are responsible for security 'in' the cloud."
+"Who is responsible for protecting the infrastructure that runs AWS services?","AWS is responsible for protecting the infrastructure that runs AWS services."
+"Who is responsible for managing operating system patches on EC2 instances?","The customer is responsible for managing operating system patches on EC2 instances."
+"What is AWS responsible for in the Shared Responsibility Model?","AWS is responsible for the security of the cloud, which includes infrastructure like hardware, software, networking, and facilities."
+"What are some of the customer's responsibilities in AWS?","Customers are responsible for managing IAM, encrypting data, securing operating systems, applications, and network configurations."
+"Is AWS responsible for securing customer data?","No, customers are responsible for securing their data within AWS services."
+"Who is in charge of the physical security of AWS data centers?","AWS is in charge of the physical security of its data centers."
+"How does AWS ensure the security of its managed services?","AWS ensures the security of its managed services by maintaining and securing the underlying infrastructure and by providing features for customers to secure their data."

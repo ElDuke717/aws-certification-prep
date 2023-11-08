@@ -1,0 +1,10 @@
+"What is AWS Artifact used for?","AWS Artifact is used for on-demand access to AWS compliance documentation and agreements."
+"What type of compliance reports can you access with AWS Artifact?","With AWS Artifact, you can access compliance reports related to global IT security standards and regulations like ISO, PCI, and SOC."
+"How does AWS Audit Manager help with compliance audits?","AWS Audit Manager helps by providing prebuilt frameworks for common compliance standards, automating evidence collection, and generating audit-ready reports."
+"Can AWS Config evaluate configurations against desired settings?","Yes, AWS Config can continuously monitor and record AWS resource configurations and automate the evaluation against desired configurations."
+"What is the main purpose of Amazon Macie?","The main purpose of Amazon Macie is to discover and protect sensitive data in AWS using machine learning and pattern matching."
+"Does Amazon Macie support continuous monitoring of data access?","Yes, Amazon Macie supports continuous monitoring of data access to help protect sensitive data."
+"What are the benefits of using AWS Config?","Benefits of using AWS Config include tracking configuration changes, understanding resource relationships, and evaluating compliance with company policies."
+"How can AWS Audit Manager reduce the effort in preparing for compliance audits?","AWS Audit Manager reduces the effort in preparing for compliance audits by automating evidence collection and providing prebuilt compliance frameworks."
+"What types of sensitive data can Amazon Macie discover?","Amazon Macie can discover sensitive data such as personally identifiable information (PII), financial information, and intellectual property."
+

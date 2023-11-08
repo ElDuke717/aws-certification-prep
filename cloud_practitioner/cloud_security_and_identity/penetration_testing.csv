@@ -1,0 +1,8 @@
+"What is allowed under AWS's policy on penetration testing?","Customers are allowed to conduct penetration tests and vulnerability assessments against their AWS infrastructure for a number of services without prior approval."
+"Which services can be tested under AWS's policy on penetration testing?","Services such as EC2 instances, NAT Gateways, Elastic Load Balancers, RDS, CloudFront, Aurora, and several others can be tested."
+"What activities are prohibited during penetration testing on AWS?","Prohibited activities include DoS, DDoS, port flooding, protocol flooding, request flooding, and any tests on AWS infrastructure not owned by the customer."
+"Do customers need to request approval for all penetration tests on AWS?","No, customers do not need to request approval for all penetration tests, but they must adhere to the guidelines and limitations set by AWS."
+"Can customers perform DoS or DDoS attacks as part of penetration testing on AWS?","No, customers are not allowed to perform DoS or DDoS attacks as part of penetration testing on AWS."
+"How does AWS support customers who want to perform penetration testing?","AWS provides guidelines for permitted services and prohibited activities and offers a form to request more invasive tests if necessary."
+"Is testing of Amazon Managed Blockchain allowed without prior approval from AWS?","Yes, testing of Amazon Managed Blockchain is allowed without prior approval from AWS, as long as it adheres to the AWS Acceptable Use Policy."
+"What should customers do if they want to conduct more invasive penetration tests on AWS?","Customers should fill out the AWS Penetration Testing Request Form if they wish to conduct more invasive tests that are not generally permitted."
