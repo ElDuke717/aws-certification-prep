@@ -1,0 +1,8 @@
+"What is AWS Migration Hub?","A service that provides a central place to monitor and manage migrations to AWS."
+"What does AWS Application Discovery Service do?","It helps plan migration projects by gathering on-premises data center information."
+"What is the purpose of AWS Database Migration Service (DMS)?","To migrate databases to AWS with minimal downtime."
+"How does AWS Server Migration Service (SMS) help?","It simplifies and accelerates the migration of on-premises workloads to AWS."
+"What is AWS DataSync used for?","To simplify and automate moving data between on-premises storage systems and AWS Storage services."
+"What protocols does the AWS Transfer Family support?","SFTP, FTPS, and FTP for file transfers into and out of Amazon S3 or EFS."
+"What is the AWS Snow Family?","Physical devices for transporting large amounts of data into and out of AWS."
+"What is AWS Direct Connect?","A service that establishes a dedicated network connection from your premises to AWS."

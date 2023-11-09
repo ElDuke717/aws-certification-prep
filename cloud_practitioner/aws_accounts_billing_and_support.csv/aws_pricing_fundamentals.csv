@@ -1,0 +1,11 @@
+
+"What is the AWS pricing model based on?","Pay-as-you-go, where you pay only for the services you use.","AWS-Pricing"
+"What are the main factors influencing AWS costs?","Compute, storage, and outbound data transfer.","AWS-Pricing"
+"How does AWS charge for compute resources?","Based on instance types and usage, with options for reserved instances or spot instances.","AWS-Pricing"
+"What does Amazon S3 charge for?","Amount of data stored per month and the amount of outbound data transfer.","AWS-Pricing"
+"Is data transfer into AWS typically free?","Yes, transferring data into AWS is usually free.","AWS-Pricing"
+"What is AWS Free Tier?","A level of usage for many services at no cost, offered to new AWS customers.","AWS-Pricing"
+"What are Reserved Instances and Savings Plans?","Commitment options that offer cost savings over on-demand pricing for a one or three-year term.","AWS-Pricing"
+"What are Spot Instances?","Instances available at a discount that can be terminated by AWS when they need the capacity back.","AWS-Pricing"
+"How does AWS Lambda charge for its service?","Based on the number of requests and the duration of code execution.","AWS-Pricing"
+"What tools does AWS provide for cost estimation and management?","AWS Pricing Calculator and AWS Cost Explorer.","AWS-Pricing"

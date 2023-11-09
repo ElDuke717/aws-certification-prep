@@ -1,0 +1,76 @@
+ AWS Premium Support Plans offer customers technical support for infrastructure and services running on AWS. These plans are designed to provide fast, responsive support to ensure your AWS environment runs smoothly. Here are the key features of the different AWS Premium Support plans:
+
+**1. Basic Support Plan:**
+   - Included for all AWS customers.
+   - Customer service and communities - 24x7 access to customer service, documentation, whitepapers, and support forums.
+   - AWS Trusted Advisor - Access to the 7 core Trusted Advisor checks.
+   - AWS Personal Health Dashboard - Access to a personalized view of the health of AWS services, and alerts when your resources are impacted.
+
+**2. Developer Support Plan:**
+   - Best suited for trial and test environments in AWS.
+   - Business hours email access to Cloud Support Associates.
+   - Unlimited cases with 1 primary contact.
+   - General guidance < 24 business hours, system impaired < 12 business hours.
+
+**3. Business Support Plan:**
+   - Recommended for production environments or if you have multiple services running on AWS.
+   - 24x7 phone, email, and chat access to Cloud Support Engineers.
+   - Unlimited cases with unlimited contacts.
+   - General guidance < 24 hours, system impaired < 4 hours, production system impaired < 1 hour, production system down < 1 hour, business-critical system down < 15 minutes.
+
+**4. Enterprise Support Plan:**
+   - Best for large or mission-critical environments.
+   - All the benefits of Business Support, plus:
+   - Access to a Technical Account Manager (TAM).
+   - Concierge Support Team for billing and account best practices.
+   - Infrastructure Event Management for event planning and operational readiness.
+   - Application architecture guidance.
+   - Operational support and best practices.
+   - Proactive programmatic case management.
+   - General guidance < 4 hours, system impaired < 1 hour, production system impaired < 15 minutes, production system down < 15 minutes, business-critical system down < 15 minutes.
+
+**Study Questions:**
+
+1. "What type of AWS support plan includes a Technical Account Manager (TAM)?"
+   - A. Basic
+   - B. Developer
+   - C. Business
+   - D. Enterprise
+   - Answer: D. Enterprise
+
+2. "Which AWS support plan offers < 15 minutes response time for a business-critical system down?"
+   - A. Basic
+   - B. Developer
+   - C. Business
+   - D. Enterprise
+   - Answer: D. Enterprise
+
+3. "Under which support plan does AWS provide Infrastructure Event Management services?"
+   - A. Basic
+   - B. Developer
+   - C. Business
+   - D. Enterprise
+   - Answer: D. Enterprise
+
+4. "For which AWS support plan is general guidance provided in less than 24 business hours?"
+   - A. Basic
+   - B. Developer
+   - C. Business
+   - D. Enterprise
+   - Answer: B. Developer
+
+5. "What is the initial response time for a 'production system impaired' case under the Business Support Plan?"
+   - A. < 24 hours
+   - B. < 12 hours
+   - C. < 1 hour
+   - D. < 15 minutes
+   - Answer: C. < 1 hour
+
+6. "Which AWS support plan offers 24x7 access to customer service, documentation, whitepapers, and support forums?"
+   - A. Basic
+   - B. Developer
+   - C. Business
+   - D. Enterprise
+   - Answer: A. Basic
+
+Please format these questions into CSV for your Anki deck as needed.

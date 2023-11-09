@@ -1,0 +1,8 @@
+ "Which EC2 pricing option is best for a developer working on a small project for several hours that cannot be interrupted?", "On-Demand instances are best for short-term, uninterrupted workloads."
+"What are Reserved Instances suitable for in EC2 pricing?", "Reserved Instances are suitable for applications with steady-state usage and can offer significant savings over On-Demand pricing."
+"For which scenario are Scheduled Reserved Instances ideal?", "Scheduled Reserved Instances are ideal for compute-intensive, cost-sensitive distributed computing workloads that can withstand interruption."
+"When should you use EC2 Spot Instances?", "Use Spot Instances for flexible start and end times with workloads that can handle interruptions, such as batch processing jobs."
+"What is the use case for EC2 Dedicated Instances?", "Dedicated Instances are used for workloads that require dedicated hardware for compliance and regulatory reasons."
+"What type of workloads are Dedicated Hosts suited for in EC2?", "Dedicated Hosts are suited for security-sensitive applications that require dedicated hardware and per-instance billing."
+"What EC2 pricing option should be used for a reporting application that runs 6 hours a day, 4 days a week?", "On-Demand instances are suitable for this use case due to their flexible nature without any long-term commitment."
+"Which EC2 pricing model is recommended for a database with per-socket licensing requirements?", "Dedicated Hosts are recommended for databases with per-socket or per-core licensing requirements to optimize costs."
