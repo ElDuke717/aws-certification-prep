@@ -1,0 +1,8 @@
+"What is AWS Amplify?","A set of tools and services that help developers build scalable full-stack applications on AWS."
+"Which types of applications can you build with AWS Amplify?","You can build both web and mobile applications using AWS Amplify."
+"What are some key features of AWS Amplify?","Authentication, API (GraphQL and REST), storage, and analytics are some key features."
+"Can AWS Amplify integrate with front-end frameworks?","Yes, AWS Amplify integrates with frameworks like React, Angular, Vue, and mobile platforms like iOS and Android."
+"What is AWS AppSync?","A managed GraphQL service for building flexible APIs for web and mobile applications."
+"How does AWS AppSync handle real-time data?","AWS AppSync provides real-time data updates and offline synchronization capabilities."
+"Can AWS AppSync connect to multiple data sources?","Yes, AppSync can connect to multiple data sources like Amazon DynamoDB, Lambda, and more."
+"What are the benefits of using AWS AppSync?","AWS AppSync simplifies app development with real-time data, offline sync, and data combination from different sources."

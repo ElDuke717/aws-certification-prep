@@ -1,0 +1,9 @@
+
+"What is AWS Device Farm?","A cloud-based service for app testing that allows developers to test mobile and web apps across a range of devices."
+"What types of applications can be tested using AWS Device Farm?","Android, iOS, and web applications."
+"How does AWS Device Farm help developers before releasing an app?","It allows them to test their apps on hundreds of devices and identify issues before the app affects users."
+"Can you run automated tests on AWS Device Farm?","Yes, you can run automated tests using built-in frameworks or your own test scripts."
+"What kind of feedback do you receive from AWS Device Farm after testing?","Logs, videos, and screenshots for each test to diagnose issues."
+"Is there a need to manage testing infrastructure with AWS Device Farm?","No, there is no need to manage any testing infrastructure as it is managed by AWS."
+"Can AWS Device Farm be integrated into continuous deployment workflows?","Yes, it can be integrated with continuous deployment and testing workflows."
+"What problem does AWS Device Farm solve for developers?","It eliminates the need for developers to acquire and manage their own testing devices."
